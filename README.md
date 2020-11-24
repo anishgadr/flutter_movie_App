@@ -5,9 +5,9 @@ A demo Flutter project for creating app UI for a movie app. This is created for 
 Dashboard Screen
 This is the first screen of the app where we have different sections for different category of movies.
 
-![alt text](https://github.com/anishgadr/flutter_movie_App/blob/master/dashboard-screen.jpg?raw=true)
+![alt text](https://github.com/anishgadr/flutter_movie_App/blob/master/dashboard-screen.jpg?raw=true | width=700)
 
 Movie Details Screen
 This is the movie details screen where user can get more details about the movie.
 
-![alt text](https://github.com/anishgadr/flutter_movie_App/blob/master/movie-details-screen.jpg?raw=true)
+![alt text](https://github.com/anishgadr/flutter_movie_App/blob/master/movie-details-screen.jpg?raw=true  | width=700)
